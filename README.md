@@ -27,8 +27,7 @@ The analysis followed a structured approach consisting of several key stages:
 3. **Visualization and Interpretation**  
    - **Line Plot:** Illustrated long-term closing price trends.  
    - **Histogram:** Displayed the distribution of daily returns.  
-   - **Scatter Plot:** Examined the relationship between price and trading volume.  
-   - **Boxplots:** Summarized price and volume distributions to highlight variability and outliers.  
+   - **Scatter Plot:** Examined the relationship between price and trading volume, highlighting variability and outliers.  
 
 4. **Statistical Evaluation**  
    - Calculated the **Pearson correlation coefficient** between price and volume to assess the strength and direction of their relationship.
