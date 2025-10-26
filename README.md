@@ -90,3 +90,5 @@ This analysis provides a clear, data-driven overview of Apple’s historical sto
 The findings confirm **sustained long-term growth** supported by consistent investor interest and periodic bursts of trading activity.  
 While daily price fluctuations remain modest, market events can trigger notable changes in both price and volume.  
 By incorporating additional data sources and applying more advanced statistical models, future analyses can further validate these findings and deepen understanding of the underlying market mechanisms influencing Apple’s performance.
+
+- LinkedIn: (https://www.linkedin.com/in/gracee-ngo/)
